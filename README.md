@@ -20,7 +20,6 @@ A suíte é composta de forma modular por repositórios independentes, seguindo 
 | 🖼️ [**moodle-block_course_gallery**](https://github.com/suap-moodletheme-suite/moodle-block_course_gallery) | Bloco Moodle para exibição de uma galeria visual de cursos e navegação facilitada.            |  Ativo      |
 | ⭐ [**moodle-block_course_rating**](https://github.com/suap-moodletheme-suite/moodle-block_course_rating)   | Bloco para avaliação e classificação de cursos pelos estudantes.                              |  Ativo      |
 | ℹ️ [**moodle-block_site_info**](https://github.com/suap-moodletheme-suite/moodle-block_site_info)           | Bloco para exibição de informações institucionais, avisos, horários e contatos.               |  Ativo      |
-| 💡 [**moodle-block_recommendation**](https://github.com/suap-moodletheme-suite/moodle-block_recommendation) | Bloco para recomendação personalizada de cursos e conteúdos com base no perfil.               | 🚧 Em breve |
 
 ---
 
